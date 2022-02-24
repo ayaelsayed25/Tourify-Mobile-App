@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Front-end",
+    "slug": "Front-end",
+    "version": "1.0.0",
+    "orientation": "portrait",    
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      },
+      "config":{
+        "googleMaps":{
+          "apiKey":"AIzaSyCgXGqBPMhmTBa-1UKzcMaRvjAJ4oTKEjc"
+        }
+      }
+    }
+  }
+}
